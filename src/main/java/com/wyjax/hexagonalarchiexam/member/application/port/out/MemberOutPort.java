@@ -7,5 +7,5 @@ public interface MemberOutPort {
     Member save(Member member);
 
     Member get(Long memberId);
-}
 
+}
